@@ -23,7 +23,7 @@ export const Hero = () => {
                         </a>
                     </div>
                 </li>
-                <li><div>Tuesdays at 6:00PM</div></li> 
+                <li><div>Thursdays at 6:00PM</div></li> 
             </ul>
         </div>
         <div className="contact-list">
